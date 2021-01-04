@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in MUGLA SITKI KOCMAN UNIVERSITY, Molecular Biology and Genetics, 2019
+* MSc. in MUGLA SITKI KOCMAN UNIVERSITY, Molecular Biology and Genetics, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-… : Researcher
+  * MUGLA METROPOLITAN MUNICIPALITY, Plant Tissue Culture and Crypreservation Laboratory
+  * Supervisor: Assoc. Prof. Dr. Ergun KAYA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018: Intern
+  * GEBZE TECHNICAL UNIVERSITY, Plant Biotechnology Laboratory
+  * Supervisor: Prof. Dr. Yelda OZDEN CIFTCI
+  
+* 2017-… : Researcher
+  * MUGLA SITKI KOCMAN UNIVERSITY, Plant Molecular Genetics and Biotechnology Laboratory
+  * Supervisor: Assoc. Prof. Dr. Ergun KAYA
   
 Skills
 ======
